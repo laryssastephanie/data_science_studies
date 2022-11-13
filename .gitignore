@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-/Aulas_Alura/10_NLP/dados/imdb-reviews-pt-br.csv
+/Aulas_Alura/10_NLP/dados
 
 # C extensions
 *.so
